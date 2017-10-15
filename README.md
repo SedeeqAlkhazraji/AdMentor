@@ -16,9 +16,13 @@ To test the system calls, you need "strace". If you are testing in virtual envir
 
 There are some other tools that this code use. 
 *[Nexus Root Toolkit] http://www.wugfresh.com/nrt/
+
 *[BusyBox] https://www.busybox.net/about.html
+
 *[SuperSU] https://play.google.com/store/apps/details?id=eu.chainfire.supersu&hl=en
+
 *[Trepn Profiler] https://developer.qualcomm.com/software/trepn-power-profiler
+
 *[Trepn Profiler] https://play.google.com/store/apps/details?id=com.quicinc.trepn&hl=en
 
 You can find the detailes in this paper[papre link will be add soon]
