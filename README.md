@@ -15,6 +15,7 @@ the "Loader" to implement the tests using different metrics
 To test the system calls, you need "strace". If you are testing in virtual environment, then it comes already packaged with SDK. If you are running it on actual phones, then you need to compile "strace", put it on phone, and call the executable. In this project, you can find the a compiled version of strace (not sure if it would work in your setting).
 
 There are some other tools that this code use. 
+
 *[Nexus Root Toolkit] http://www.wugfresh.com/nrt/
 
 *[BusyBox] https://www.busybox.net/about.html
